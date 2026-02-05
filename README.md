@@ -1,10 +1,10 @@
 # daw1
 
-## 📌 Descripción
-Este proyecto forma parte de mi portafolio personal.  
-El objetivo es demostrar buenas prácticas de programación, organización y documentación en GitHub.  
-Repositorio con proyectos creados por iniciativa propia, relacionados con el Grado Superior en Desarrollo de Aplicaciones Web 1 (DAW 1), no realizados como tareas del curso.
+## 📌 Descripció
+Aquest projecte forma part del meu portafoli personal.  
+L’objectiu és demostrar bones pràctiques de programació, organització i documentació a GitHub.  
+Repositori amb projectes creats per iniciativa pròpia, relacionats amb el Grau Superior en Desenvolupament d’Aplicacions Web 1 (DAW 1), no realitzats com a tasques del curs.
 
-## 📜 Licencia
-Este proyecto está bajo la licencia **MIT**.  
-Consulta el archivo [LICENSE](LICENSE) para más detalles.
+## 📜 Llicència
+Aquest projecte està sota la llicència **MIT**.  
+Consulta el fitxer [LICENSE](LICENSE) per a més detalls.
